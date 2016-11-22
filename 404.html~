@@ -26,14 +26,14 @@
         <div class="item-title">
             <div id="message"></div>
             <div class="link-bottom"> 
-                <a class="icon icon-home" href="https://maheshyadav.com.np/"></i> Home</a> &nbsp;
+                <a class="icon icon-home" href="index.html"></i> Home</a> &nbsp;
                 <a class="icon icon-envelope" href="mailto:contact@maheshyadav.com.np"> Write me</a>
             </div>
         </div>
     </div> 
     <script src="https://code.jquery.com/jquery-1.12.3.min.js"></script> 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script> 
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script> 
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script> 
     <script src="/404D/vegas.js"></script> <script>$('body').vegas({slides:[{src:'/404D/background-image.jpg'},],});</script> <script src="/404D/main-image.js"></script> 
    <script>
               (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
