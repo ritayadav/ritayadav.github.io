@@ -15,7 +15,7 @@
 	<meta name="author" content="Mahesh Kumar Yadav" />
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-	<link rel='shortcut icon' href='favicon.ico' type='image/x-icon'/ >
+	<link href="favicon.ico" rel="Shortcut Icon">
     <!--[if lt IE 9]>
     <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
